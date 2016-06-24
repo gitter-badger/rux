@@ -1,0 +1,6 @@
+tags
+cscope.out
+.install
+*.deb
+RPMS
+*.rpm

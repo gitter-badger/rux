@@ -1,0 +1,13 @@
+Package: rux
+Version: 0.1.0
+Section: libs
+Priority: optional
+Architecture: amd64
+Depends: libc6
+Maintainer: Aditi <aditi@ncrux.com>
+Description: nCrux C Foundation Library
+ Highly Configurable C Foundation Library for Application Development.
+ This contains all fundamental ingredients like memory management,
+ data structures, sorting, searching etc.
+
+

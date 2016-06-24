@@ -1,0 +1,9 @@
+
+addons:
+ apt:
+  packages:
+   - docutils-common
+   - lintian
+
+script:
+ - make && sudo make deb && sudo dpkg -i rux.deb && make test

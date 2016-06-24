@@ -1,0 +1,22 @@
+# rux installation
+
+## Install dependent packages
+
+
+## Compilation
+
+	make
+
+## Installation
+
+	make install
+
+## Clean up
+
+	make clean
+
+## Creating debian package
+
+	make deb
+
+
